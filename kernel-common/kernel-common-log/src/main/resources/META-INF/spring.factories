@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.zytcft.kernel.common.log.LogAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+    com.zytcft.kernel.common.log.init.ApplicationLoggerInitializer

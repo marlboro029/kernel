@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.springframework.cloud.openfeign.KernelHystrixFeignTargeterConfiguration,\
+  com.zytcft.kernel.common.security.component.GlobalExceptionHandlerResolver,\
+  com.zytcft.kernel.common.security.service.KernelUserDetailsServiceImpl

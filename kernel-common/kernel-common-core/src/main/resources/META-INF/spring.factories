@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zytcft.kernel.common.core.config.JacksonConfig,\
+  com.zytcft.kernel.common.core.config.MessageSourceConfig,\
+  com.zytcft.kernel.common.core.config.RestTemplateConfig,\
+  com.zytcft.kernel.common.core.util.SpringContextHolder,\
+  com.zytcft.kernel.common.core.xss.RequestWrapperFilter
